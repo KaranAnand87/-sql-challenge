@@ -3,7 +3,7 @@ Module 9 Challenge
 
 Employee Database
 
-In this repository, the major task is a research project on employees of a corporation from the 1980s and 1990s. All that remain of the database of employees from that period are six CSV files.
+In this repository, the data is of employees of a corrporation in the form of six CSV files.
 
 We will design the tables to hold data in the CSVs, import the CSVs into a SQL database (Postgres), and answer questions about the data. The major tasks are:
 
@@ -22,11 +22,11 @@ We inspected the CSVs and sketched out an ERD of the tables. We using Quick Data
 
 ## Data Engineering
 
-Create a table schema for each of the six CSV files.
+Created a table schema for each of the six CSV files.
 
 For the primary keys check to see if the column is unique, otherwise create a composite key. Which takes to primary keys in order to uniquely identify a row.
 
-Create tables in the correct order to handle foreign keys.
+Created tables in the correct order to handle foreign keys.
 
 Import each CSV file into the corresponding SQL table. Note be sure to import the data in the same order that the tables were created and account for the headers when importing to avoid errors.
 
