@@ -30,4 +30,20 @@ I created tables in the correct order to handle foreign keys.
 I imported each CSV file into the corresponding SQL table. Note be sure to import the data in the same order that the tables were created and account for the headers when importing to avoid errors.
 
 ## Data Analysis
+![Query_1](https://user-images.githubusercontent.com/120350694/221732982-b44352cb-2f0e-4d7f-a84e-476a0d32b95d.png)
+
+![Query_2](https://user-images.githubusercontent.com/120350694/221732995-434ea76b-76ab-4a07-8bab-700bc588dd2f.png)
+
+![Query_3](https://user-images.githubusercontent.com/120350694/221733023-8d25d7e7-7b5b-4985-881b-d124ceebcf79.png)
+
+![Query_4](https://user-images.githubusercontent.com/120350694/221733045-2f02aead-ad3e-4ea0-b5dd-97915a8d2cde.png)
+
+![Query_5](https://user-images.githubusercontent.com/120350694/221733090-90aa6012-502f-4087-8267-3d5988adc6fc.png)
+
+![Query_6](https://user-images.githubusercontent.com/120350694/221733117-ac24d5a3-2a71-43e1-a760-4f5fce52b78a.png)
+
+![Query_7](https://user-images.githubusercontent.com/120350694/221733143-b090e67e-19fa-456e-8592-f47f259b3c53.png)
+
+![Query_8](https://user-images.githubusercontent.com/120350694/221733168-f9ca357a-0454-4c69-bf8c-f91b50a7c4c1.png)
+
 
