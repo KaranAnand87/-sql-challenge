@@ -14,6 +14,7 @@ We will design the tables to hold data in the CSVs, import the CSVs into a SQL d
 3. Data Analysis
 
 
+## Data Modelling
 We inspected the CSVs and sketched out an ERD of the tables. We using Quick Database Diagrams.
 
 
