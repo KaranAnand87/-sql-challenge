@@ -1,7 +1,7 @@
 # -sql-challenge
 ## Module 9 Challenge - Employee Database
 
-In this repository, the data is of employees of a corrporation in the form of six CSV files.
+In this repository, the data is of employees of a corporation in the form of six CSV files.
 
 I will design the tables to hold data in the CSVs, import the CSVs into a SQL database (Postgres), and answer questions about the data. The major tasks are:
 
