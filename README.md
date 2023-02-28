@@ -1,7 +1,5 @@
 # -sql-challenge
-Module 9 Challenge
-
-Employee Database
+## Module 9 Challenge - Employee Database
 
 In this repository, the data is of employees of a corrporation in the form of six CSV files.
 
